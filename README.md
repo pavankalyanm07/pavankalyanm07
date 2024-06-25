@@ -73,8 +73,7 @@ R.V.R & J.C College of Engineering, India
 
 ---
 
-🌟 I am dedicated to leveraging data to drive business success and am always eager to learn and apply new technologies and methodologies. Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
-
+🌟 I am dedicated to leveraging data to drive business success and am always eager to learn and apply new technologies and methodologies. 
 🚀 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.
 
 ---
