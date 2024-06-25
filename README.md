@@ -1,20 +1,18 @@
-# Hi there, I'm Pavan Kalyan 👋
+# Hi there, Welcome to my GitHub Profile 👋
 
 ### Data Analyst
 
-
-📞 980-533-5623 | 📧 kalyanreddym07@gmail.com
 ---
 
-## Summary
+## About Me 
 
-I am a Data Analyst with over 3 years of experience in data analysis of structured and unstructured data, data acquisition, data validation, predictive modeling, and data visualization. I have developed interactive visualizations and dashboards in Tableau, Power BI, and Excel, leading to a 25% increase in data-driven decision-making.
+I'm Pavan Kalyan, a passionate Data Analyst with over three years of experience in analyzing both structured and unstructured data. My expertise lies in data acquisition, validation, predictive modeling, and visualization. I have a proven track record of developing interactive visualizations and dashboards that have significantly improved data-driven decision-making within organizations.
 
 ---
 
-## Experience
+## Experience 💼
 
-**Principal Financial, NC | Data Analyst**  
+**Principal Financial | Data Analyst**  
 *Aug 2023 – Current*
 
 - Built data warehouses on AWS Redshift to store and analyze insurance data for trend analysis and reporting.
@@ -26,7 +24,7 @@ I am a Data Analyst with over 3 years of experience in data analysis of structur
 - Implemented data governance policies for data security, privacy, and regulatory compliance.
 - Collaborated with cross-functional teams to translate business requirements into analytical solutions.
 
-**Zensar Technologies, India | Data Analyst**  
+**Zensar Technologies | Data Analyst**  
 *Jan 2020 – July 2022*
 
 - Led and managed data analysis projects from design to production.
@@ -39,7 +37,7 @@ I am a Data Analyst with over 3 years of experience in data analysis of structur
 
 ---
 
-## Education
+## Education 🎓
 
 **Master of Science in Computer Science**  
 University of North Carolina at Charlotte, NC
@@ -49,7 +47,7 @@ R.V.R & J.C College of Engineering, India
 
 ---
 
-## Skills
+## Skills 🛠️
 
 - **Programming Languages:** Python, SQL, R
 - **IDEs:** Visual Studio Code, PyCharm
@@ -61,7 +59,7 @@ R.V.R & J.C College of Engineering, India
 
 ---
 
-## Projects
+## Projects 📂
 
 ### Kickstarter Projects Success Prediction Model
 
@@ -75,7 +73,9 @@ R.V.R & J.C College of Engineering, India
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.
+🌟 I am dedicated to leveraging data to drive business success and am always eager to learn and apply new technologies and methodologies. Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
+
+🚀 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you’d like to collaborate on a project.
 
 ---
 
