@@ -13,7 +13,7 @@ I'm Pavan Kalyan, a passionate Data Analyst with over three years of experience 
 ## Experience 💼
 
 **Principal Financial | Data Analyst**  
-*Aug 2023 – Current*
+*Aug 2023 – July 2024*
 
 - Built data warehouses on AWS Redshift to store and analyze insurance data for trend analysis and reporting.
 - Analyzed, queried, sorted, and manipulated data using Excel and SQL with less than 2% discrepancies.
