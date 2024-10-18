@@ -6,7 +6,7 @@
 
 ## About Me 
 
-I'm Pavan Kalyan, a passionate Data Analyst with over three years of experience in analyzing both structured and unstructured data. My expertise lies in data acquisition, validation, predictive modeling, and visualization. I have a proven track record of developing interactive visualizations and dashboards that have significantly improved data-driven decision-making within organizations.
+I'm Pavan Kalyan, a passionate Data Analyst with over three years of experience in analyzing both structured and unstructured data. My expertise lies in data acquisition, validation, predictive modeling, and visualization. 
 
 ---
 
